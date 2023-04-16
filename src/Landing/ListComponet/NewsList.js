@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import imgs from '../../assets/portfolio/Pratham.png' 
 import './NewList.css'
 import axios from 'axios'
 
